@@ -1,0 +1,7 @@
+GET https://localhost:7286
+
+### Get session
+GET https://localhost:7286/api/session
+
+### Get cart
+GET https://localhost:7286/api/cart
